@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/English-library-V1/static/css/main.001609eb.css",
-    "main.js": "/English-library-V1/static/js/main.9daab5ea.js",
+    "main.js": "/English-library-V1/static/js/main.3c628b80.js",
     "static/media/pexels-melissa-thomas-3913572.jpg": "/English-library-V1/static/media/pexels-melissa-thomas-3913572.ea851b52d136b9cc1760.jpg",
     "static/media/Book_education_11_generated.jpg": "/English-library-V1/static/media/Book_education_11_generated.1be1e2f96ae9892ccc6e.jpg",
     "static/media/cover_not_found.jpg": "/English-library-V1/static/media/cover_not_found.69846940c7af3e651508.jpg",
     "index.html": "/English-library-V1/index.html",
     "static/media/loader.svg": "/English-library-V1/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
     "main.001609eb.css.map": "/English-library-V1/static/css/main.001609eb.css.map",
-    "main.9daab5ea.js.map": "/English-library-V1/static/js/main.9daab5ea.js.map"
+    "main.3c628b80.js.map": "/English-library-V1/static/js/main.3c628b80.js.map"
   },
   "entrypoints": [
     "static/css/main.001609eb.css",
-    "static/js/main.9daab5ea.js"
+    "static/js/main.3c628b80.js"
   ]
 }
