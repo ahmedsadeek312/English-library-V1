@@ -1,0 +1,16 @@
+.header-content {
+  min-height: 75vh;
+  background: linear-gradient(rgba(38, 221, 47, 0.3), rgba(235, 139, 49, 0.5)),
+    url("../images/pexels-melissa-thomas-3913572.jpg") center/cover no-repeat;
+  flex-direction: column;
+}
+
+.header-title {
+  font-size: 4.2rem;
+}
+.header-text {
+  margin-top: -1.8rem;
+  margin-bottom: 2.8rem;
+  opacity: 0.8;
+  max-width: 770px;
+}
