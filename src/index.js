@@ -7,7 +7,7 @@ import BookList from "./components/BookList";
 import "bootstrap/dist/css/bootstrap.min.css";
 import BookDetails from "./components/BookDetails";
 import { AppProvider } from "./APIFetch";
-import NotFound from "./components/NotFound";
+import LandingPage from "./components/LandingPage";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <AppProvider>
@@ -17,7 +17,7 @@ root.render(
           <Route path="book" element={<BookList />} />
           <Route path="/book/:id" element={<BookDetails />} />
         </Route>
-        <Route path="*" element={<NotFound />} />
+        <Route path="*" element={<LandingPage />} />
       </Routes>
     </BrowserRouter>
   </AppProvider>
