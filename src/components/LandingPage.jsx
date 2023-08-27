@@ -9,12 +9,12 @@ const LandingPage = () => {
     <section className="home" id="home">
       <div className="home-text">
         <span>welcome To</span>
-        <h1>starbucks Coffee</h1>
+        <h1>Alpha Library </h1>
         <h2>
-          Free coffee is a <br /> tap away{" "}
+        Knowledge Hub Library	
         </h2>
         <button onClick={() => navigate("/")} className="btn">
-          Join Now
+          Open Now
         </button>
       </div>
       <div className="home-img">

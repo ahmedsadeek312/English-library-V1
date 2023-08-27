@@ -13,10 +13,10 @@
   background-color: var(--purple-color);
 }
 .home-text {
-  flex: 1 1 17rem;
+  flex: 1 1 10rem;
 }
 .home-img {
-  flex: 1 1 1rem;
+  flex: 2 1 5rem;
 }
 .home-img img {
   /* height: 85vh; */
@@ -56,7 +56,7 @@
   border-radius: 40px;
   color: var(--pink-color);
   font-weight: 500;
-  width: 30%;
+  width: 80%;
   font-size: 1.5em;
 }
 .btn:hover {
